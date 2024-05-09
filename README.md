@@ -24,8 +24,8 @@ Testing the C Program for the desired output.
 
 # PROGRAM:
 ```
-Developed By:Rasika. M
-Reg No:212222230117
+Developed By:SANGAVI SURESH
+Reg No:212222230130
 ```
 
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
